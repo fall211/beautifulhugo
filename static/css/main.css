@@ -451,6 +451,7 @@ footer div.disclaimer {
 .post-preview .post-title {
   font-size: 30px;
   margin-top: 0;
+  /* color: #ffffff; */
 }
 .post-preview .post-subtitle {
   margin: 0;
@@ -929,6 +930,7 @@ h4.see-also {
   }
   .well {
     background-color: #444;
+    text-align: center;
   }
   .panel {
     background-color: #222;
